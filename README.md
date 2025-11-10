@@ -29,7 +29,7 @@
 ### Frontend  
 <a href="https://github.com/ZurabC19">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=html,css,&perline=4" /> 
 </div>
 </a>
  </td><td valign="top" width="25%">
@@ -62,8 +62,7 @@
  ## Github Stats:
 <p align="center">
     <a href="https://github.com/ZurabC19">
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZurabC19&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZurabC19&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+        <img height="220em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZurabC19&langs_count=12&layout=compact&langs_count=8&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
 
