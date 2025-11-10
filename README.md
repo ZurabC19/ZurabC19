@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi, I'm Zurab Chkhartishvili
 
-<!--
-**ZurabC19/ZurabC19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<pre>
+                                  ___           ___           ___       ___       ___     
+                                 /\__\         /\  \         /\__\     /\__\     /\  \    
+                                /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+                               /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+                              /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+                             /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+                             \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+                                  \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+                                  /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+                                 /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+                                 \/__/         \/__/         \/__/     \/__/     \/__/    
+</pre>
 
-Here are some ideas to get you started:
+## About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- Student at Brooklyn College
+- Senior with a 3.9 GPA
+- Tech Fellow @ CodePath
+- Currently Learning Spring and Docker
+
+## Skill Set:
+
+<table><tr><td valign="top" width="25%">
+
+### Frontend  
+<a href="https://github.com/ZurabC19">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css&perline=4" /> 
+</div>
+</a>
+ </td><td valign="top" width="25%">
+        
+### Languages
+<a href="https://github.com/ZurabC19">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=java,python,js,kotlin,cpp,mysql,&perline=4" /> 
+</div>
+</a>
+
+</td><td valign="top" width="25%">
+  
+### Others
+<a href="https://github.com/ZurabC19">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,gradle,figma,vscode,discord,vscodeqt&perline=4" /> 
+</div>
+</a>
+</td>
+</tr></table>
+
+
+## Connect with me:
+<div align="center">
+    <a href="https://www.linkedin.com/in/zurab-chkhartishvili/" target="_blank"><img src="https://img.shields.io/badge/Zurab%20Chkhartishvili-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:zchkharta@gmail.com"><img src="https://img.shields.io/badge/zchkharta@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</div>
+
+ ## Github Stats:
+<p align="center">
+    <a href="https://github.com/ZurabC19">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZurabC19&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZurabC19&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
+</p>
+
+
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+
+#
+
