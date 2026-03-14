@@ -20,7 +20,7 @@
 - Student at Brooklyn College
 - Senior with a 3.9 GPA
 - Tech Fellow @ CodePath
-- Currently Learning Spring and Docker
+- Software Engineer Intern @ The Difference
 
 ## Skill Set:
 
@@ -37,7 +37,7 @@
 ### Languages
 <a href="https://github.com/ZurabC19">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=java,python,js,kotlin,cpp,mysql,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=java,python,js,kotlin,cpp,mysql,php,dart&perline=4" /> 
 </div>
 </a>
 
@@ -46,7 +46,7 @@
 ### Others
 <a href="https://github.com/ZurabC19">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,gradle,figma,vscode,discord,vscodeqt&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,gradle,flutter,figma,vscode,discord,vscodeqt&perline=4" /> 
 </div>
 </a>
 </td>
